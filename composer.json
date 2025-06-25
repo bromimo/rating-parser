@@ -1,0 +1,12 @@
+{
+  "name": "bromimo/rating-parser",
+  "type": "project",
+  "require": {
+    "php": "^8.1",
+    "ext-mbstring": "*",
+    "guzzlehttp/guzzle": "^7.0",
+    "spatie/data-transfer-object": "^3.9",
+    "ext-dom": "*",
+    "google/apiclient": "^2.0"
+  }
+}
